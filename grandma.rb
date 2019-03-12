@@ -7,7 +7,7 @@ def speak_to_grandma(phrase)
     "NO, NOT SINCE 1938!"
   elsif phrase == "#{phrase}".downcase
     "HUH?! SPEAK UP, SONNY!"
-    elsif phrase == "#{phrase}".capitalize
+    elsif phrase == "#{phrase}"
     "HUH?! SPEAK UP, SONNY!"
   end
 end
