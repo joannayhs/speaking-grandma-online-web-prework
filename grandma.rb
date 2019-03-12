@@ -6,7 +6,9 @@ if phrase = "I LOVE YOU GRANDMA!"
   puts "I LOVE YOU TOO PUMPKIN!"
   elsif phrase = "Hi grandma, how are you?".downcase
   puts "HUH?! SPEAK UP, SONNY!"
-  elsif phrase = ""
+  elsif phrase = "WHAT DID YOU EAT TODAY?".upcase
+  puts "NO, NOT SINCE 1938!"
+end
 
 
 
