@@ -1,6 +1,6 @@
 # Write a speak_to_grandma method.
 
-speak_to_grandma("phrase")="I LOVE YOU TOO PUMPKIN!"
+speak_to_grandma("phrase")=
 
 if phrase = "I LOVE YOU GRANDMA!"
   puts "I LOVE YOU TOO PUMPKIN!"
