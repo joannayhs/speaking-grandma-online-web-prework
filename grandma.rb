@@ -3,7 +3,7 @@
 def speak_to_grandma(phrase)
   if phrase == "I LOVE YOU GRANDMA!"
     "I LOVE YOU TOO PUMPKIN!"
-    elsif phrase == "Hi".downcase
+    elsif phrase == "Hi Nana, how are you?".downcase
     "HUH?! SPEAK UP, SONNY!"
     elsif phrase == "WHAT DID YOU EAT TODAY?!".upcase
     "NO, NOT SINCE 1938!"
